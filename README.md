@@ -1,4 +1,4 @@
-# Registration-Form
+# Html
 Registration form created using HTML.
 <!DOCTYPE html>
 <html lang="en">
