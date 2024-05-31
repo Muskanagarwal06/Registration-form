@@ -13,12 +13,9 @@ Registration form created using HTML.
         <form action="/action.php">
         <input type="Text" placeholder="Type Your Name">
         <br>
-        <br>
         <input type='Text' placeholder="Type Username">
         <br>
-        <br>
         <input type ="Password" placeholder="Password">
-        <br>
         <br>
         <h3>Select your Class:</h3>
         <label for="101">
