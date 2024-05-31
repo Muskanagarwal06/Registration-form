@@ -1,7 +1,6 @@
 # Registration-Form
 Registration form created using HTML.
-<br>
-Author-Muskan Agarwal 
+
 
 <!DOCTYPE html>
 <html lang="en">
