@@ -27,8 +27,6 @@ Registration form created using HTML.
         <input type="Radio" value="Class 12th" name="class" id="103">Class XII
         </label>
         <br>
-        <br>
-        <br>
         <h3>Select your subject/subjects:</h3>
         <label for="Math">
             <input type="checkbox" value="Math" name="Subject" id="'101">Math
@@ -42,7 +40,6 @@ Registration form created using HTML.
             <input type="checkbox" value="ComputerScience" name="Subject" id="103">ComputerScience
         </label>
         <br>
-        <br>
         <h3>Select your city:</h3>
         <select name="City">
             <option value="Delhi">Delhi</option>
@@ -52,10 +49,8 @@ Registration form created using HTML.
             <option value="Chandigarh">Chandigarh</option>
         </select>
         <br>
-        <br>
         <h4>Feedback:</h4>
         <textarea name="Feedback" id="1110" placeholder="Please give your Feedback here" rows=5 ></textarea>
-        <br>
         <br>
         <br>
         <input type="submit" value="Submit">
