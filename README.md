@@ -12,9 +12,7 @@ Registration form created using HTML.
         <h2><u>Registration Form</u></h2>
         <form action="/action.php">
         <input type="Text" placeholder="Type Your Name">
-        <br>
         <input type='Text' placeholder="Type Username">
-        <br>
         <input type ="Password" placeholder="Password">
         <br>
         <h3>Select your Class:</h3>
